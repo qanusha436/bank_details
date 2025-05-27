@@ -1,5 +1,3 @@
-package bank_details;
-
 public class bank_transation {
     String accountname;
     String accountholder;
